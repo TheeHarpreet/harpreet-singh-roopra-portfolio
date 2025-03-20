@@ -15,9 +15,21 @@ function Projects() {
         />
         <ProjectCard
           src={viberr}
-          link="https://github.com/TheeHarpreet/performance-tracker-Project"
-          h3="Performance Tracker Porject"
-          p="Tracking the performance of employees"
+          link="https://github.com/TheeHarpreet/Criminal-Record-Management-System"
+          h3="Criminal Record Management System"
+          p="Efficient Crime Data Management and Analysis"
+        />
+        <ProjectCard
+          src={viberr}
+          link="https://github.com/TheeHarpreet/Smart-Door-Security-System"
+          h3="Smart Door Security System"
+          p="IoT-based Smart Security System"
+        />
+        <ProjectCard
+          src={viberr}
+          link="https://github.com/TheeHarpreet/Smart-Security-App"
+          h3="Smart Security App"
+          p="Mobile App to complement the Smart Door Security System"
         />
       </div>
     </section>
